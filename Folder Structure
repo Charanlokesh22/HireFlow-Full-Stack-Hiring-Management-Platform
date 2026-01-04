@@ -1,0 +1,18 @@
+hireflow/
+├── backend/
+│   ├── main.py
+│   ├── auth.py
+│   ├── models.py
+│   ├── database.py
+│   ├── routes/
+│   │   ├── jobs.py
+│   │   ├── users.py
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── Login.js
+│   │   ├── Jobs.js
+│   └── package.json
+├── .github/workflows/ci.yml
+└── README.md
